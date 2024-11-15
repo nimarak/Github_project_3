@@ -1,1 +1,3 @@
-# Github_project_3
+# Housing Price Regression model
+
+Members : Maria Kopsacheili , Apostolis Karapatis, Nikolaos Marakis
